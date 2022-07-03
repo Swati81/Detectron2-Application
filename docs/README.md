@@ -5,7 +5,7 @@ The latest documentation built from this directory is available at [detectron2.r
 
 ##### model-zoo link:-> https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md
 
-##### run install pytorch->
+##### install pytorch
 
 $conda install pytorch==1.10.0 torchvision==0.11.0 torchaudio==0.10.0 -c pytorch
 
