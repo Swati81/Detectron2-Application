@@ -1,15 +1,12 @@
 # Read the docs:
 
 The latest documentation built from this directory is available at [detectron2.readthedocs.io](https://detectron2.readthedocs.io/).
-Documents in this directory are not meant to be read on github.
+# make sure that system has installed CUDA==11.1 & CUDNN==8.1
 
-# Build the docs:
+# model-zoo link:-> https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md
 
-1. Install detectron2 according to [INSTALL.md](../INSTALL.md).
-2. Install additional libraries required to build docs:
-  - docutils==0.16
-  - Sphinx==3.2.0
-  - recommonmark==0.6.0
-  - sphinx_rtd_theme
-
-3. Run `make html` from this directory.
+# run to install pytorch->
+$conda install pytorch==1.10.0 torchvision==0.11.0 torchaudio==0.10.0 -c pytorch
+$pip install cython
+# clone detectron2 repo
+$git clone 
