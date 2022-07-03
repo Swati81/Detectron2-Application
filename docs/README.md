@@ -21,4 +21,6 @@ $pip install -e .
 
 $pip install opencv-python
 
-go outside detectron2
+##### go outside detectron2
+
+$pip install -r requirements.txt
